@@ -1,7 +1,7 @@
-# john dewey che passione
- Progetto per information retrieval e text mining
+#JOHN2VEC
+Analysis of the whole corpus of the philosopher John Dewey
 
-VOLUMES DOWNLOADER: how I download the text from internet
+VOLUMES DOWNLOADER: how I download the text
 
 DATA PREPARATION2: how I transformed the texts and the corpus (second version of DATA PREPARATION)
 
